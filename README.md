@@ -1,5 +1,5 @@
 ### Hi  👋
-I am a Fullstack Web Developer and Software Architect, who enjoys testing new features, tolls and technologies... 
+I am a Fullstack Web Developer and Software Architect, who enjoys testing new features, tools and technologies... 
 - 🔭 Working on multiple frontend and backend projects using React, Drupal and Next.js
 <br>
 
