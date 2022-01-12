@@ -1,6 +1,6 @@
 ### Hi  👋
-I am a fullstack web developer
-- 🔭 Working on multiple frontend and backend project using React, Drupal and Next.js
+I am a Fullstack Web Developer and Software Architect, who enjoys testing new features, tolls and technologies... 
+- 🔭 Working on multiple frontend and backend projects using React, Drupal and Next.js
 <br>
 
 ## Connect with me
