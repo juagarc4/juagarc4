@@ -17,4 +17,6 @@ I am a Fullstack Web Developer and Software Architect, who enjoys testing new fe
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <br>
 
+## My Activity
+
 <a href="https://app.daily.dev/juagarc4"><img src="https://api.daily.dev/devcards/f3dea8406b62472fba8b55f2fe38648c.png?r=fwl" width="400" alt="Raul Garcia's Dev Card"/></a>
