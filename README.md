@@ -19,4 +19,4 @@ I am a Fullstack Web Developer and Software Architect, who enjoys testing new fe
 
 ## My Activity on daily.dev
 
-<a href="https://app.daily.dev/juagarc4"><img src="https://api.daily.dev/devcards/f3dea8406b62472fba8b55f2fe38648c.png?r=fwl" width="400" alt="Raul Garcia's Dev Card"/></a>
+<a href="https://app.daily.dev/juagarc4"><img src="https://github.com/juagarc4/juagarc4/blob/main/devcard.svg" width="400" alt="Raul Garcia's Dev Card"/></a>
